@@ -170,6 +170,1536 @@
 "fax": "",
 "storeid": "10"
 }
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-114.274284,
+48.260925
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1075 Trumble Creek Road, Unit K Kalispell, MT 59901",
+"name": "2M Company Inc.",
+"phone": "866-610-5961",
+"fax": "",
+"storeid": "11"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-112.099673,
+33.462835
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1839 W Culver St. Phoenix, AZ 85007",
+"name": "2M Company Inc.",
+"phone": "888-502-4926",
+"fax": "",
+"storeid": "12"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-122.554379,
+45.40911
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "15750 SE Piazza Ave Clackamas, OR 97015",
+"name": "2M Company Inc.",
+"phone": "866-289-6475",
+"fax": "",
+"storeid": "13"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-119.292988,
+47.123092
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1026 West Third Avenue Moses Lake, WA 98837",
+"name": "2M Company Inc.",
+"phone": "877-230-3421",
+"fax": "",
+"storeid": "14"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-122.888671,
+46.97546
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "7741 Arab Drive SE Unit A Olympia, WA 98501",
+"name": "2M Company Inc.",
+"phone": "877-690-2915",
+"fax": "",
+"storeid": "15"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-103.1080474,
+34.4560116
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "585 CR B Texico, NM 88135",
+"name": "2M Company Inc.",
+"phone": "855-249-3476",
+"fax": "",
+"storeid": "16"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-102.5838702,
+36.1074397
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "11990 U.S. Hwy 87 Dalhart, TX 79022",
+"name": "2M Company Inc.",
+"phone": "888-807-3883",
+"fax": "",
+"storeid": "17"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-119.841301,
+34.436827
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "30 S. La Patera Ln #10 Goleta, CA 93117",
+"name": "Aqua-Flo Supply",
+"phone": "(805) 967-2374",
+"fax": "",
+"storeid": "18"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-119.6786762,
+34.4213436
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "18 S Milpas Street Santa Barbara, CA  93103",
+"name": "Aqua-Flo Supply",
+"phone": "(805) 897-1166",
+"fax": "",
+"storeid": "19"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-119.2208811,
+34.4485073
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1940 E. Ojai Avenue Ojai, CA 93023",
+"name": "Aqua-Flo Supply",
+"phone": "(805) 646-7244",
+"fax": "",
+"storeid": "20"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-119.225223,
+34.25123
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2471 Portola Road Ventura, CA 93003",
+"name": "Aqua-Flo Supply",
+"phone": "(805) 676-1114",
+"fax": "",
+"storeid": "21"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-118.899443,
+34.282433
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5345 N. Commerce #8 Moorpark, CA 93021",
+"name": "Aqua-Flo Supply",
+"phone": "(805) 529-1508",
+"fax": "",
+"storeid": "22"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-118.577089,
+34.4395809
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "28317 Kelly Johnson Parkway Santa Clarita, CA 91355",
+"name": "Aqua-Flo Supply",
+"phone": "(661) 257-0909",
+"fax": "",
+"storeid": "23"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-118.382095098495,
+33.9900037605758
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5751 Buckingham Parkway Culver City, CA 90230",
+"name": "Aqua-Flo Supply",
+"phone": "(310) 915-5208",
+"fax": "",
+"storeid": "24"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-118.3206367,
+33.8412033
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2137 Dominguez Street Torrance, CA 90501",
+"name": "Aqua-Flo Supply",
+"phone": "(310) 782-0355",
+"fax": "",
+"storeid": "25"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.1517089,
+40.9694868
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1120 Goffle Road Hawthorne, NJ 07506-2024",
+"name": "Aquarius Supply",
+"phone": "(973) 423-0222",
+"fax": "",
+"storeid": "26"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.4398055,
+40.8219216
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "64 S. Jefferson Road Whippany, NJ 7981",
+"name": "Aquarius Supply",
+"phone": "(973) 386-9076",
+"fax": "",
+"storeid": "27"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.4271639,
+40.5667209
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "901 Montrose Avenue South Plainfield, NJ 7080",
+"name": "Aquarius Supply",
+"phone": "(908) 753-5200",
+"fax": "",
+"storeid": "28"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.094626,
+39.787127
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "223 Blackwood / Barnsboro Rd Sewell, NJ 8080",
+"name": "Aquarius Supply",
+"phone": "(856) 228-6070",
+"fax": "",
+"storeid": "29"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.180978,
+40.056703
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1000 Airport Road Lakewood, NJ 8701",
+"name": "Aquarius Supply",
+"phone": "(732) 363-5034",
+"fax": "",
+"storeid": "30"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.3285861,
+40.1089499
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "852 East Main Street Norristown, PA 19401",
+"name": "Aquarius Supply",
+"phone": "(610) 277-9764",
+"fax": "",
+"storeid": "31"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.435619,
+40.636137
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "131 Lloyd Street Allentown, PA 18109",
+"name": "Aquarius Supply",
+"phone": "(610) 231-2009",
+"fax": "",
+"storeid": "32"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-76.6485822,
+39.0574783
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "8207B Rear Clover Leaf Drive Millersville, MD 21108",
+"name": "Aquarius Supply",
+"phone": "(410) 761-9455",
+"fax": "",
+"storeid": "33"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.4561289,
+38.901913
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "4120 Pepsi Place Chantilly, VA 20151",
+"name": "Aquarius Supply",
+"phone": "(703) 263-1272",
+"fax": "",
+"storeid": "34"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.5045229,
+38.2608165
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "4910 Quality Drive Fredericksburg, VA 22408",
+"name": "Aquarius Supply",
+"phone": "(540) 891-8100",
+"fax": "",
+"storeid": "35"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.5920729,
+39.6829359
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "314 W. Basin Road New Castle, DE 19720",
+"name": "Aquarius Supply",
+"phone": "(302) 328-3326",
+"fax": "",
+"storeid": "36"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.5771471,
+38.4565052
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "38373 Sussex Highway WH1, Suite A Delmar, DE 19940",
+"name": "Aquarius Supply",
+"phone": "(302) 846-3118",
+"fax": "",
+"storeid": "37"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-71.4932992,
+42.1421737
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "6-1 Industrial Rd. Suite 4 Milford, MA 1757",
+"name": "Atlantic Irrigation",
+"phone": "(508) 381-0479",
+"fax": "",
+"storeid": "38"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.735155,
+42.748359
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "74 Swatling Road Latham, NY 12110",
+"name": "Atlantic Irrigation",
+"phone": "(518) 782-7070",
+"fax": "",
+"storeid": "39"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-78.7476442,
+43.133222
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5052 Lockport Road Lockport, NY 14094",
+"name": "Atlantic Irrigation",
+"phone": "(716) 625-9916",
+"fax": "",
+"storeid": "40"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-72.895674,
+41.531191
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1187 Highland Ave. Cheshire, CT 6410",
+"name": "Atlantic Irrigation",
+"phone": "(203) 439-7922",
+"fax": "",
+"storeid": "41"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.5214998,
+41.0800606
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "9 Viaduct Rd. Stamford, CT 6907",
+"name": "Atlantic Irrigation",
+"phone": "(203) 348-4884",
+"fax": "",
+"storeid": "42"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.772593,
+41.063781
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "111 Lafayette Ave. N. White Plains, NY 10603",
+"name": "Atlantic Irrigation",
+"phone": "(914) 686-0008",
+"fax": "",
+"storeid": "43"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.27265,
+40.9269522
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "90 Newark Pompton Turnpike Wayne, NJ 7470",
+"name": "Atlantic Irrigation",
+"phone": "(973) 628-0203",
+"fax": "",
+"storeid": "44"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.6202879,
+40.7272181
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3 Commercial Ave Garden City, NY 11530",
+"name": "Atlantic Irrigation",
+"phone": "(516) 294-1096",
+"fax": "",
+"storeid": "45"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.3259999,
+40.762894
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "789 Long Island Ave. Deer Park, NY 11729",
+"name": "Atlantic Irrigation",
+"phone": "(631) 524-2094",
+"fax": "",
+"storeid": "46"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.120259,
+40.191495
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5010 Industrial Rd. Farmingdale, NJ 7727",
+"name": "Atlantic Irrigation",
+"phone": "(732) 751-0808",
+"fax": "",
+"storeid": "47"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.920796,
+39.81054
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "309 Pinedge Dr. West Berlin, NJ 8091",
+"name": "Atlantic Irrigation",
+"phone": "(856) 767-1231",
+"fax": "",
+"storeid": "48"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.5879141,
+40.0003076
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1120 Greenhill Rd. West Chester, PA 19380",
+"name": "Atlantic Irrigation",
+"phone": "(610) 431-6200",
+"fax": "",
+"storeid": "49"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-80.0571889,
+40.650123
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "518 Wallace Rd. Wexford, PA 15090",
+"name": "Atlantic Irrigation",
+"phone": "(724) 935-1690",
+"fax": "",
+"storeid": "50"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.4765089,
+38.982656
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "22890 Quicksilver Dr. Dulles, VA 20166",
+"name": "Atlantic Irrigation",
+"phone": "(703) 996-1733",
+"fax": "",
+"storeid": "51"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.5104106,
+37.5985863
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2210 Perl Rd. Richmond, VA 23230",
+"name": "Atlantic Irrigation",
+"phone": "(804) 855-1770",
+"fax": "",
+"storeid": "52"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.5581844,
+38.466054
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "38487 Sussex Highway Delmar, DE 19940",
+"name": "Atlantic Irrigation",
+"phone": "(302) 846-3527",
+"fax": "",
+"storeid": "53"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-78.571033,
+35.730342
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3810 Centurion Dr. Suite 103 Garner, NC 27529",
+"name": "Atlantic Irrigation",
+"phone": "(919) 661-0068",
+"fax": "",
+"storeid": "54"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-80.840446,
+35.317391
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "6930 Statesville Rd. Charlotte, NC 28269",
+"name": "Atlantic Irrigation",
+"phone": "(704) 599-8927",
+"fax": "",
+"storeid": "55"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.906089,
+34.295222
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3112 Kitty Hawk Rd. Wilmington, NC 28405",
+"name": "Atlantic Irrigation",
+"phone": "(910) 251-6360",
+"fax": "",
+"storeid": "56"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-84.535098,
+33.985577
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1417 Canton Rd. Marietta, GA 30066",
+"name": "Atlantic Irrigation",
+"phone": "(770) 635-7239",
+"fax": "",
+"storeid": "57"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-78.996019,
+33.660048
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3931 Mega Blvd. Unit 9 Myrtle Beach, SC 29588",
+"name": "Atlantic Irrigation",
+"phone": "(843) 650-0626",
+"fax": "",
+"storeid": "58"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-80.022637,
+32.893616
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2470 Air Park Rd. North Charleston, SC 29406-6160",
+"name": "Atlantic Irrigation",
+"phone": "(843) 554-3848",
+"fax": "",
+"storeid": "59"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-83.597463,
+32.54444
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "101 Pecan St. Bonaire, GA 31005",
+"name": "Atlantic Irrigation",
+"phone": "(478) 918-0204",
+"fax": "",
+"storeid": "60"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-117.4093087,
+47.6555817
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "110 E Pacific Avenue Spokane WA 99202-1518",
+"name": "Auto-Rain",
+"phone": "(509) 326-4440",
+"fax": "",
+"storeid": "61"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-116.819839,
+47.701186
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2619 Seltice Way Coeur d'Alene, ID 83814-8975",
+"name": "Auto-Rain",
+"phone": "(208) 667-3943",
+"fax": "",
+"storeid": "62"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-117.35456,
+47.713482
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3718 E Decatur Avenue Spokane, WA 99217-6521",
+"name": "Auto-Rain",
+"phone": "(509) 847-0060",
+"fax": "",
+"storeid": "63"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-117.001299,
+46.422887
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "206 22nd St N Lewiston, ID 83851-1659",
+"name": "Auto-Rain",
+"phone": "(208) 798-3115",
+"fax": "",
+"storeid": "64"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-117.1776954,
+47.6576016
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "16823 E Sprague Avenue Veradale, WA 99037-8979",
+"name": "Auto-Rain",
+"phone": "(509) 928-5403",
+"fax": "",
+"storeid": "65"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-86.044203,
+39.952194
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "116 Shadowlawn Drive Fishers, IN 46038",
+"name": "Automatic Irrigation",
+"phone": "317-842-3123",
+"fax": "317-845-0977",
+"storeid": "66"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-85.1706486,
+41.1275806
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2204 Research Drive Fort Wayne, IN 46808",
+"name": "Automatic Irrigation",
+"phone": "260-490-4900",
+"fax": "260-490-9090",
+"storeid": "67"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-86.085071,
+39.62826
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "647 Sayre Court, Suite A Greenwood, IN 46143",
+"name": "Automatic Irrigation",
+"phone": "317-882-6056",
+"fax": "317-882-6057",
+"storeid": "68"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-87.4050682,
+37.9459223
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "4877 State Road 261 Newburgh, IN 47630",
+"name": "Automatic Irrigation",
+"phone": "812-858-1809",
+"fax": "812-858-2760",
+"storeid": "69"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-88.022966,
+41.907797
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "960 N. Ridge Avenue Lombard, IL 60148",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(630) 495-5500",
+"fax": "",
+"storeid": "70"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-87.9832633,
+42.2368237
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1331 Wilhelm Road Mundelein, IL 60060",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(847) 680-4000",
+"fax": "",
+"storeid": "71"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-83.0461967,
+42.6070301
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "42730 Merrill Road Sterling Heights, MI 48314",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(586) 731-5780",
+"fax": "",
+"storeid": "72"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-83.4452179,
+42.5551763
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1985 Rock Road Commerce, MI 48390",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(248) 669-9323",
+"fax": "",
+"storeid": "73"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-85.7306624,
+42.9138545
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2645 28th Street Wyoming, MI 49519",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(616) 261-2700",
+"fax": "",
+"storeid": "74"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-93.158026,
+44.8539306
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "2797 Eagandale Boulevard Eagan, MN 55121",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(651) 681-9133",
+"fax": "",
+"storeid": "75"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-93.2749021,
+45.1392178
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "286 Coon Rapids Blvd. Coon Rapids, MN 55433",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(763) 795-8353",
+"fax": "",
+"storeid": "76"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-93.3131159,
+37.0600586
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1000 Kathryn Street Nixa, MO 65714",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(417) 724-9696",
+"fax": "",
+"storeid": "77"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-90.360494,
+38.67208
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "8674 Olive Blvd. Saint Louis, MO 63132",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(314) 994-2131",
+"fax": "",
+"storeid": "78"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.4285869,
+41.146937
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1 Seir Hill Road Norwalk, CT 6850",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(203) 845-0075",
+"fax": "",
+"storeid": "79"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-72.6677369,
+41.7443141
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "100 Meadow Street Hartford, CT 6114",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(860) 296-4804",
+"fax": "",
+"storeid": "80"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-71.136909,
+42.504243
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "280 Mishawum Road Woburn, MA 1801",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(781) 376-8000",
+"fax": "",
+"storeid": "81"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-70.211325,
+41.684451
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "6 Atlantic Avenue S. Yarmouth, MA 2664",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(508) 398-9800",
+"fax": "",
+"storeid": "82"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.3926804,
+39.4055972
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "95 Monocacy Blvd. Frederick, MD 21701",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(301) 228-2916",
+"fax": "",
+"storeid": "83"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.1720034,
+40.0721107
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "195 Lehigh Ave. Lakewood, NJ 8701",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(732) 987-5597",
+"fax": "",
+"storeid": "84"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.33987,
+40.931497
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1 Como Court Towaco, NJ 7082",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(973) 335-8404",
+"fax": "",
+"storeid": "85"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.471359,
+40.5614418
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "429 Bell Street Piscataway, NJ 8854",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(732) 752-7400",
+"fax": "",
+"storeid": "86"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-75.076729,
+39.699755
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1738 Glassboro Road Williamstown, NJ 8094",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(856) 881-4446",
+"fax": "",
+"storeid": "87"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.819718,
+41.056167
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5 Nepperhan Avenue Elmsford, NY 10523",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(914) 347-5166",
+"fax": "",
+"storeid": "88"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.744108,
+40.949643
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "438 Center Ave. Mamaroneck, NY 10543",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(914) 381-5520",
+"fax": "",
+"storeid": "89"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.819718,
+41.056167
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "5 Nepperhan Avenue Elmsford, NY 10523",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(914) 347-5700",
+"fax": "",
+"storeid": "90"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-73.4198268,
+40.7422262
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "15-D Picone Blvd. Farmingdale, NY 11735",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(631) 249-4694",
+"fax": "",
+"storeid": "91"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-74.0267625,
+41.1011799
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "351 W. Route 59 Nanuet, NY 10954",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(845) 356-7000",
+"fax": "",
+"storeid": "92"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-71.437517,
+41.751738
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "129 Chestnut Street Warwick, RI 2888",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(401) 461-4430",
+"fax": "",
+"storeid": "93"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-77.4726869,
+38.9182149
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "44208 Wade Dr. Chantilly, VA 20152",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(703) 327-9113",
+"fax": "",
+"storeid": "94"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-84.608249,
+33.445004
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "155 Shamrock Industrial Blvd. Tyrone, GA 30290",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(770) 487-0044",
+"fax": "",
+"storeid": "95"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-83.3203436,
+30.8982013
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3451-B Val Del Rd. Valdosta, GA 31602",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(229) 241-9633",
+"fax": "",
+"storeid": "96"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-83.612328,
+32.6200339
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "106 North Davis Dr. Warner Robins, GA 31093",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(478) 923-2579",
+"fax": "",
+"storeid": "97"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-84.938784,
+32.563932
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "3151 Williams Road Columbus, GA 31909",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(706) 571-7979",
+"fax": "",
+"storeid": "98"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-84.5774552,
+33.9903038
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "1519 White Circle Marietta, GA 30060",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(770) 420-3395",
+"fax": "",
+"storeid": "99"
+}
+},
+{
+"geometry": {
+"type": "Point",
+"coordinates": [-84.1475391,
+33.9278203
+]
+},
+"type": "Feature",
+"properties": {
+"category": "retailer",
+"description": "4227 Steve Reynolds Blvd Norcross, GA 30093",
+"name": "Central Turf & Irrigation Supply",
+"phone": "(770) 638-0055",
+"fax": "",
+"storeid": "100"
+}
 }
     ]
 }
