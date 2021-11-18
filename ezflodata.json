@@ -113,7 +113,7 @@
 "type": "Feature",
 "properties": {
 "category": "retailer",
-"description": "3221 Vassar NE Albuquerque, NM	 87107",
+"description": "3221 Vassar NE Albuquerque, NM 87107",
 "name": "2M Company Inc.",
 "phone": "800-344-8238",
 "fax": "",
@@ -9218,18 +9218,19 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-117.27939,
+34.45183
 ]
 },
 "type": "Feature",
 "properties": {
 "category": "retailer",
-"description": "  ",
-"name": "Ewing",
-"phone": "",
+"description": "11060 G Avenue Hesperia, CA 92345",
+"name": "SiteOne Landscape Supply",
+"phone": "760-244-3621",
 "fax": "",
-"storeid": "543"
+"storeid": "1240"
+
 }
 },
 {
@@ -14318,8 +14319,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-120.154430,
+34.595760
 ]
 },
 "type": "Feature",
@@ -14369,8 +14370,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-104.7115478,
+38.9342596
 ]
 },
 "type": "Feature",
@@ -15474,8 +15475,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-76.7629581,
+39.1790071
 ]
 },
 "type": "Feature",
@@ -19520,8 +19521,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-111.1702662,
+45.7732463
 ]
 },
 "type": "Feature",
@@ -21063,24 +21064,6 @@
 "fax": "",
 "storeid": "1239"
 }
-},
-{
-"geometry": {
-"type": "Point",
-"coordinates": [-117.27939,
-34.45183
-]
-},
-"type": "Feature",
-"properties": {
-"category": "retailer",
-"description": "11060 G Avenue Hesperia, CA 92345",
-"name": "SiteOne Landscape Supply",
-"phone": "760-244-3621",
-"fax": "",
-"storeid": "1240"
-
-       }
-        }
+}
     ]
 }
