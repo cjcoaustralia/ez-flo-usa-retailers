@@ -113,7 +113,7 @@
 "type": "Feature",
 "properties": {
 "category": "retailer",
-"description": "3221 Vassar NE Albuquerque, NM	 87107",
+"description": "3221 Vassar NE Albuquerque, NM 87107",
 "name": "2M Company Inc.",
 "phone": "800-344-8238",
 "fax": "",
@@ -9218,23 +9218,6 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
-]
-},
-"type": "Feature",
-"properties": {
-"category": "retailer",
-"description": "  ",
-"name": "Ewing",
-"phone": "",
-"fax": "",
-"storeid": "543"
-}
-},
-{
-"geometry": {
-"type": "Point",
 "coordinates": [41.647872,
 -70.48196740000003
 ]
@@ -14318,8 +14301,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-120.1563368,
+34.5961494
 ]
 },
 "type": "Feature",
@@ -14369,8 +14352,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-104.7115478,
+38.9342596
 ]
 },
 "type": "Feature",
@@ -15474,8 +15457,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-76.7629581,
+39.1790071
 ]
 },
 "type": "Feature",
@@ -19520,8 +19503,8 @@
 {
 "geometry": {
 "type": "Point",
-"coordinates": [,
-
+"coordinates": [-111.1702662,
+45.7732463
 ]
 },
 "type": "Feature",
